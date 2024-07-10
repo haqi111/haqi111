@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Golang , Python , PHP**
 
-- 👨‍💻 All of my projects are available at [https://docs.google.com/presentation/d/11BwenbDR_Xgh-T_vIedAWpdSsRVfpotb/edit?usp=sharing&ouid=116923120028915704370&rtpof=true&sd=true](https://docs.google.com/presentation/d/11BwenbDR_Xgh-T_vIedAWpdSsRVfpotb/edit?usp=sharing&ouid=116923120028915704370&rtpof=true&sd=true)
+- 👨‍💻 All of my projects are available at [https://docs.google.com/presentation/d/1CKxRp-JPA3NQrI0N-raF4OQ3wMui7MY3k6_yJffjUMU/edit?usp=sharing](https://docs.google.com/presentation/d/1CKxRp-JPA3NQrI0N-raF4OQ3wMui7MY3k6_yJffjUMU/edit?usp=sharing)
 
 - 💬 Ask me about **NestJs, ExpressJs, Javascript**
 
