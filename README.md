@@ -13,7 +13,6 @@
   
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1DTa18kCMDDXd8LSQYiOTW8nHZwzJJRMl?usp=sharing](https://drive.google.com/drive/folders/1DTa18kCMDDXd8LSQYiOTW8nHZwzJJRMl?usp=sharing)
 
-- ⚡ Fun fact **I Want To Be Hacker Mwehehehhe (,,◕　⋏　◕,,)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
